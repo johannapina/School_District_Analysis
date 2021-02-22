@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview of Project
-We used the school district analysis [data](schools_complete.csv) and [data](students_complete.csv)to identify key metrics in a school district summary:
+We used the school district analysis [data](Resources/schools_complete.csv) and [data](Resources/students_complete.csv) to identify key metrics in a school district summary:
 - number of students
 - number of schools
 - total budget
