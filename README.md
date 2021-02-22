@@ -25,7 +25,8 @@ Evaluating each school's performance and determine which key metrics that impact
 
 ## Summary
 - After replacing the math and reading scores for Thomas High School, that school's reading, math and overall scores increased from the 60's to above 80's.
-![unchanged_THS_data.png](Resources/unchanged_THS_data.png) ![changed_THS_data.png](Resources/changed_THS_data.png) 
+![unchanged_THS_data.png](Resources/unchanged_THS_data.png) !
+[changed_THS_data.png](Resources/changed_THS_data.png) 
 - When comparing data with and without the 9th grade scores for Thomas High School in Charter and District performance, the data did not change. 
 - Student count decreased by 461.
 - Overall passing percentage increased from 65.17 to 65.95.
