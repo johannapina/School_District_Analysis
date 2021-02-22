@@ -20,7 +20,7 @@ Evaluating each school's performance and determine which key metrics that impact
 - Reading scores ranged from 80% to 84%.
 - Math scores ranged from 76% to 85%.
 - There was no significant changes for reading, math and overall combined scores across grade levels for each school. 
-![graph](Resources/changes_in_scores_groupedBy_reading_grade.png] ![graph](Resources/changes_in_scores_groupedBy_math_grade.png]
+![changes_in_scores_groupedBy_reading_grade.png](Resources/changes_in_scores_groupedBy_reading_grade.png] ![changes_in_scores_groupedBy_math_grade.png](Resources/changes_in_scores_groupedBy_math_grade.png]
 
 ## Summary
 - After replacing the math and reading scores for Thomas High School, that school's reading, math and overall scores increased from the 60's to above 80's.
